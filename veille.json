@@ -1,0 +1,877 @@
+{
+  "displayName": "Veille Technologique",
+  "skills": [
+    {
+      "icon": "",
+      "id": 1,
+      "name": "SLAM",
+      "parents": [],
+      "childs": [
+        {
+          "id": 2
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 3
+        }
+      ],
+      "fillColor": "#ffffff",
+      "posX": 497.2008310249309,
+      "posY": 281.8698060941828
+    },
+    {
+      "icon": "",
+      "id": 2,
+      "name": "Base de données",
+      "parents": [
+        {
+          "id": 1
+        }
+      ],
+      "childs": [
+        {
+          "id": 28
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 26
+        }
+      ],
+      "fillColor": "#007bff",
+      "posX": 628.4405817174516,
+      "posY": 441.3615131578948,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "lientheme1": "https://www.oracle.com/fr/database/definition-base-de-donnees/",
+      "lientheme2": "https://www.base-de-donnees.com/",
+      "lientheme3": "https://docs.plesk.com/fr-FR/obsidian/customer-guide/bases-de-donn%C3%A9es-du-site-web.69535/",
+      "rep": "115"
+    },
+    {
+      "icon": "",
+      "id": 3,
+      "name": "Objet",
+      "parents": [
+        {
+          "id": 1
+        }
+      ],
+      "childs": [
+        {
+          "id": 32
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 35
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 36
+        }
+      ],
+      "fillColor": "#794949",
+      "posX": 382.4572022160663,
+      "posY": 444.68561288088625,
+      "lien": "https://www.jedha.co/formation-python/programmation-orientee-objet",
+      "lientheme1": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "lientheme2": "https://datascientest.com/programmation-orientee-objet-guide-ultime",
+      "lientheme3": "https://pixees.fr/informatiquelycee/n_site/nsi_term_paraProg_poo.html",
+      "rep": "141"
+    },
+    {
+      "icon": "",
+      "id": 4,
+      "name": "Développement",
+      "parents": [
+        {
+          "id": 1
+        }
+      ],
+      "childs": [
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 15
+        }
+      ],
+      "fillColor": "#a549d0",
+      "posX": 715.9752077562325,
+      "posY": 244.13159626038785,
+      "lien": "https://sokeo.fr/developpement-informatique-definition/",
+      "lientheme": "https://blog.hubspot.fr/website/developpement-web",
+      "rep": "74",
+      "lientheme1": "https://www.net-concept.fr/developpement-web/le-developpement-web-cest-quoi/",
+      "lientheme2": "https://www.digital-campus.fr/glossaire-du-web/definition-developpement-web",
+      "lientheme3": "https://blog.hubspot.fr/website/developpement-web",
+      "bonjour": "da\ndza\ndza"
+    },
+    {
+      "icon": "",
+      "id": 5,
+      "name": "Web",
+      "parents": [
+        {
+          "id": 1
+        }
+      ],
+      "childs": [
+        {
+          "id": 40
+        },
+        {
+          "id": 42
+        },
+        {
+          "id": 38
+        },
+        {
+          "id": 43
+        },
+        {
+          "id": 41
+        },
+        {
+          "id": 37
+        },
+        {
+          "id": 39
+        }
+      ],
+      "fillColor": "#ff9838",
+      "posX": 301.47832110573944,
+      "posY": 220.32751457938826,
+      "lien": "https://www.numerama.com/tech/1162624-quest-ce-que-le-web.html",
+      "lientheme1": "https://home.cern/fr/science/computing/birth-web",
+      "lientheme2": "https://etudestech.com/decryptage/apprendre-programmation-informatique/",
+      "lientheme3": "https://www.pixalione.fr/glossaire/world-wide-web/",
+      "rep": "198"
+    },
+    {
+      "icon": "",
+      "id": 6,
+      "name": "Programmation",
+      "parents": [
+        {
+          "id": 1
+        }
+      ],
+      "childs": [
+        {
+          "id": 44
+        },
+        {
+          "id": 45
+        }
+      ],
+      "fillColor": "#5bc86d",
+      "posX": 493.26052631578943,
+      "posY": 103.41137465373957,
+      "lien": "https://programmation.developpez.com/",
+      "lientheme1": "https://www.techno-science.net/definition/5286.html",
+      "lientheme2": "https://www.ionos.fr/digitalguide/sites-internet/developpement-web/apprendre-la-programmation-principes-de-base/",
+      "lientheme3": "https://www.silicon.fr/tag/programmation/",
+      "rep": "130"
+    },
+    {
+      "icon": "",
+      "id": 7,
+      "name": "Logiciel",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 1131.4518353554536,
+      "posY": -36.19316999372484,
+      "lien": "https://sokeo.fr/developpement-informatique-definition/",
+      "rep": "7"
+    },
+    {
+      "icon": "",
+      "id": 8,
+      "name": "Site",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 1196.0265468098653,
+      "posY": 132.22976163590852,
+      "rep": "35",
+      "lien": "https://www.digital-campus.fr/glossaire-du-web/definition-developpement-web"
+    },
+    {
+      "icon": "",
+      "id": 9,
+      "name": "Langage",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 736.3250921675462,
+      "posY": -210.53230325758324,
+      "lien": "https://www.net-concept.fr/developpement-web/le-developpement-web-cest-quoi/",
+      "rep": "18"
+    },
+    {
+      "icon": "",
+      "id": 10,
+      "name": "Informatique",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 1060.960922266817,
+      "posY": -159.9298977903839,
+      "lien": "https://www.techno-science.net/definition/5286.html",
+      "rep": "6"
+    },
+    {
+      "icon": "",
+      "id": 11,
+      "name": "Fonction",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 994.3721847241598,
+      "posY": 258.35814541236095,
+      "lien": "https://sokeo.fr/developpement-informatique-definition/",
+      "rep": "7"
+    },
+    {
+      "icon": "",
+      "id": 12,
+      "name": "Développeur",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 1006.8339711451861,
+      "posY": 121.15261815055163,
+      "lien": "https://www.net-concept.fr/developpement-web/le-developpement-web-cest-quoi/",
+      "rep": "22"
+    },
+    {
+      "icon": "",
+      "id": 13,
+      "name": "Front-end",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 907.5173096685189,
+      "posY": -56.96281402876929,
+      "lien": "https://www.net-concept.fr/developpement-web/le-developpement-web-cest-quoi/",
+      "rep": "8"
+    },
+    {
+      "icon": "",
+      "id": 14,
+      "name": "Client",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 933.6996488157267,
+      "posY": -282.78548917343505,
+      "lien": "https://blog.hubspot.fr/website/developpement-web",
+      "rep": "11"
+    },
+    {
+      "icon": "",
+      "id": 15,
+      "name": "Script",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 1017.533484738997,
+      "posY": 408.9065955088048,
+      "lien": "https://www.net-concept.fr/developpement-web/le-developpement-web-cest-quoi/",
+      "rep": "8"
+    },
+    {
+      "icon": "",
+      "id": 16,
+      "name": "Application",
+      "parents": [
+        {
+          "id": 4
+        }
+      ],
+      "childs": [],
+      "fillColor": "#a549d0",
+      "posX": 1202.8238848576968,
+      "posY": 307.57590794389057,
+      "lien": "https://sokeo.fr/developpement-informatique-definition/",
+      "rep": "5"
+    },
+    {
+      "icon": "",
+      "id": 17,
+      "name": "Clé",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 612.4609815844741,
+      "posY": 635.3930061079926,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "18"
+    },
+    {
+      "icon": "",
+      "id": 18,
+      "name": "Colonne",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 798.0775670441412,
+      "posY": 595.3761519942684,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "12"
+    },
+    {
+      "icon": "",
+      "id": 19,
+      "name": "Ligne",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 549.2224100706408,
+      "posY": 762.0686398954765,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "8"
+    },
+    {
+      "icon": "",
+      "id": 20,
+      "name": "Serveur",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 1157.6910794890046,
+      "posY": 600.5336235775785,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "12"
+    },
+    {
+      "icon": "",
+      "id": 21,
+      "name": "Requête",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 949.4703475118102,
+      "posY": 672.619538395031,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "6"
+    },
+    {
+      "icon": "",
+      "id": 22,
+      "name": "Table",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 590.5599401744014,
+      "posY": 886.5498312427276,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "5"
+    },
+    {
+      "icon": "",
+      "id": 23,
+      "name": "SQL",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 754.0471180734554,
+      "posY": 716.6360726571793,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "46"
+    },
+    {
+      "icon": "",
+      "id": 24,
+      "name": "Système",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 782.27938318391,
+      "posY": 850.8723410962655,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "17"
+    },
+    {
+      "icon": "",
+      "id": 25,
+      "name": "Stocker",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 989.836708205613,
+      "posY": 791.3494247461674,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "8"
+    },
+    {
+      "icon": "",
+      "id": 26,
+      "name": "Gestion",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 970.095797239081,
+      "posY": 941.5938553792726,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "8"
+    },
+    {
+      "icon": "",
+      "id": 27,
+      "name": "Entreprise",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 964.2040509496197,
+      "posY": 531.410737903203,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "17"
+    },
+    {
+      "icon": "",
+      "id": 28,
+      "name": "Outil",
+      "parents": [
+        {
+          "id": 2
+        }
+      ],
+      "childs": [],
+      "fillColor": "#007bff",
+      "posX": 1153.486055396389,
+      "posY": 728.0385325199259,
+      "lien": "https://www.data-bird.co/blog/base-de-donnees",
+      "rep": "14"
+    },
+    {
+      "icon": "",
+      "id": 29,
+      "name": "Code",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": 125.43247918232032,
+      "posY": 649.7158377231817,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "11"
+    },
+    {
+      "icon": "",
+      "id": 30,
+      "name": "Héritage",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": 54.94156609368429,
+      "posY": 541.4619354799196,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "6"
+    },
+    {
+      "icon": "",
+      "id": 31,
+      "name": "Polymorphisme",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": 253.8266423080497,
+      "posY": 740.3470116942854,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "5"
+    },
+    {
+      "icon": "",
+      "id": 32,
+      "name": "Données",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": -7.996749164026028,
+      "posY": 428.1729680160406,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "9"
+    },
+    {
+      "icon": "",
+      "id": 33,
+      "name": "Méthode",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": 135.502609623554,
+      "posY": 838.5307834963139,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "11"
+    },
+    {
+      "icon": "",
+      "id": 34,
+      "name": "Accès",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": -101.14545574543797,
+      "posY": 616.9879137891727,
+      "lien": "https://datascientest.com/programmation-orientee-objet-guide-ultime",
+      "rep": "25"
+    },
+    {
+      "icon": "",
+      "id": 35,
+      "name": "Programme",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": 2.0733812772077727,
+      "posY": 732.7944138633599,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "9"
+    },
+    {
+      "icon": "",
+      "id": 36,
+      "name": "Classe",
+      "parents": [
+        {
+          "id": 3
+        }
+      ],
+      "childs": [],
+      "fillColor": "#794949",
+      "posX": -159.0487057825319,
+      "posY": 496.1463484943681,
+      "lien": "https://blog.hubspot.fr/website/programmation-orientee-objet",
+      "rep": "9"
+    },
+    {
+      "icon": "",
+      "id": 37,
+      "name": "Adresse",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": -248.28861173214898,
+      "posY": 73.47829543112272,
+      "lien": "https://www.numerama.com/tech/1162624-quest-ce-que-le-web.html",
+      "rep": "7"
+    },
+    {
+      "icon": "",
+      "id": 38,
+      "name": "Navigateur",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": 29.964992565097987,
+      "posY": -130.57434772019212,
+      "lien": "https://www.numerama.com/tech/1162624-quest-ce-que-le-web.html",
+      "rep": "9"
+    },
+    {
+      "icon": "",
+      "id": 39,
+      "name": "Page",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": -232.388405772306,
+      "posY": 211.2800804164259,
+      "lien": "https://www.numerama.com/tech/1162624-quest-ce-que-le-web.html",
+      "rep": "16"
+    },
+    {
+      "icon": "",
+      "id": 40,
+      "name": "Technologie",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": 11.414752278615083,
+      "posY": 248.38056098939217,
+      "lien": "https://www.pixalione.fr/glossaire/world-wide-web/",
+      "rep": "6"
+    },
+    {
+      "icon": "",
+      "id": 41,
+      "name": "Lien",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": -73.38634617387936,
+      "posY": -29.8730433078548,
+      "lien": "https://www.numerama.com/tech/1162624-quest-ce-que-le-web.html",
+      "rep": "12"
+    },
+    {
+      "icon": "",
+      "id": 42,
+      "name": "Recherche",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": -17.73562531442974,
+      "posY": 131.77905061721242,
+      "lien": "https://www.numerama.com/tech/1162624-quest-ce-que-le-web.html",
+      "rep": "10"
+    },
+    {
+      "icon": "",
+      "id": 43,
+      "name": "Chercheur",
+      "parents": [
+        {
+          "id": 5
+        }
+      ],
+      "childs": [],
+      "fillColor": "#ff9838",
+      "posX": 120.06615967087328,
+      "posY": -11.32280302137167,
+      "lien": "https://home.cern/fr/science/computing/birth-web",
+      "rep": "6"
+    },
+    {
+      "icon": "",
+      "id": 44,
+      "name": "Ingénieur",
+      "parents": [
+        {
+          "id": 6
+        }
+      ],
+      "childs": [],
+      "fillColor": "#5bc86d",
+      "posX": 347.9691117619518,
+      "posY": -64.32348955418047,
+      "lien": "https://programmation.developpez.com/",
+      "rep": "5"
+    },
+    {
+      "icon": "",
+      "id": 45,
+      "name": "Ordinateur",
+      "parents": [
+        {
+          "id": 6
+        }
+      ],
+      "childs": [],
+      "fillColor": "#5bc86d",
+      "posX": 530.8214803001426,
+      "posY": -85.52376416730408,
+      "lien": "https://www.techno-science.net/definition/5286.html",
+      "rep": "5"
+    }
+  ],
+  "xOffset": 358.19256232560514,
+  "yOffset": 177.79629362326887,
+  "scale": 0.34056162628811487
+}

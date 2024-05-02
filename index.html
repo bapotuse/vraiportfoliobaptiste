@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <script src="https://unpkg.com/konva@9.2.0/konva.js"></script>
+    <meta charset="utf-8" />
+    <title>Mind Map</title>
+    <link rel="stylesheet" href="./styles.css"/>
+  </head>
+  <body>
+		<nav id="onglet">
+			<a href="veille.html">Retour</a>
+	</nav>
+	<nav id="submenu">	
+		<div>
+			<div>
+			  <label>Nom de la carte mentale  : </label>
+			  <input type="text" id="className"/>
+		  </div>
+		  <div>
+				<span id="currentMode"></span>
+		  </div>
+		</div>
+	</nav>
+	<div id="main" style="padding: 0px; display:flex; margin-top: -3em; height:85vh">
+		<div id="container" style="border: 1px solid white;height:90%;width:70%;overflow:hidden"></div>
+		<div id="menu" style="width:30%">
+			<form style="display:none" name="skill">
+				<label class = "txt-lien1">Lien : </label><input style="width: 25em;" type="text" oninput="majField(this)" name="lien" />
+				<label class = "txt-lien1">Lien 2(Pour thème): </label><input style="width: 25em;" type="text" oninput="majField(this)" name="lientheme1" />
+				<label class = "txt-lien1">Lien 3(Pour thème): </label><input style="width: 25em;" type="text" oninput="majField(this)" name="lientheme2" />
+				<label class = "txt-lien1">Lien 4(Pour thème): </label><input style="width: 25em;" type="text" oninput="majField(this)" name="lientheme3" />
+        <label class = "txt-rep1">Nombre d'apparitions du mot : </label><input style="width: 3em;" type="text" name="rep" oninput="majField(this)"/>
+			</form>
+		</div>
+	</div>
+	<div class="tooltipND" id="tooltip">
+		
+	</div>
+	<script src="./config.js"></script>
+    <script src="./mindmap.js"></script>
+	<script src="./customScript.js"></script>
+  </body>
+</html>
